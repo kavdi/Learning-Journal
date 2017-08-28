@@ -1,0 +1,2 @@
+#Last day of regular class
+It is pretty exciting and scary to think back and see how fast the last three weeks have gone by. I still don't know if I comprehend all of the material we have gone through. Today we went over merge conflicts and how to fix them. Seems straight forward enough with the examples provided, but definitely see the benefit of merging frequently and communicating often. I hope I can get all my hw turned in and good grades on most of them. 
